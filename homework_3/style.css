@@ -1,0 +1,6 @@
+.scroll {
+    display: flex;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+
+}
